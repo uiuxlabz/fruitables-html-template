@@ -6,6 +6,10 @@ A warm, premium HTML template for organic food e-commerce — featuring Fraunces
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Live Pages
 
 | Page | File | Description |
